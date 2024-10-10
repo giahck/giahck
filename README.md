@@ -1,4 +1,4 @@
-## EI Ciao 👋 se vuoi puoi vedre il sito in sviluppo www.giahck.it  il git [qui](https://github.com/giahck/phaser-3game-flapyFirst) ricorda il server e una virtualizzazione di virtualbox del mio pc con Fedora Server
+## EI Ciao 👋 se vuoi puoi vedre il sito in sviluppo www.giahck.it  il git [qui](https://github.com/giahck/phaser-3game-flapyFirst) ricorda il server é una virtualizzazione di virtualbox del mio pc con Fedora Server
 
 Puoi vedere il progetto in sviluppo [qui](https://github.com/giahck/phaser-3game-flapyFirst). Attualmente ci sono due giochi creati con Phaser (Dino e Flappy Bird). Il sistema include la visualizzazione del CV direttamente nei giochi, gestito tramite Angular per il front-end e Java/Spring Boot per il back-end. I giochi sono/saranno multiplayer basati su controllo matchmaking (Socket.io)
 
